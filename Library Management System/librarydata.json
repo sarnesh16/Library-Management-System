@@ -1,0 +1,17 @@
+{
+    "books": [
+        {
+            "title": "meiazhagan",
+            "author": "premkumar",
+            "is_borrowed": true
+        }
+    ],
+    "members": [
+        {
+            "name": "sarnesh",
+            "borrowed_books": [
+                "meiazhagan"
+            ]
+        }
+    ]
+}
